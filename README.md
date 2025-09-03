@@ -1,7 +1,7 @@
 # README
 
-Complete Ruby on rails developer
-
+Complete Ruby on rails developer by Kacper
+First test repo
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
